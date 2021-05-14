@@ -1,7 +1,7 @@
 {
-  "name": "bep20-generator",
+  "name": "badgertool",
   "version": "2.1.0",
-  "description": "The new Smart Contract Generator for BEP20 Token.",
+  "description": "Smart Contract Generator for BEP20 Tokens.",
   "files": [
     "contracts",
     "test"
