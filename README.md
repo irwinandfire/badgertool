@@ -1,12 +1,6 @@
-# BADGERTOOL
+# BEP20 Token Generator
 
+## DIST ONLY
+This branch contains only the dist files from the [dapp branch](https://github.com/mineyourbiz/bep20-generator/tree/dapp), DO NOT make any changes directly to this branch, instead make your changes on the `dapp` branch and run the deploy script.
 
-The new Smart Contract Generator for BEP20 Token.
-
-## Try it
-
-[https://irwinandfire.github.io/badgertool/](https://irwinandfire.github.io/badgertool/)
-
-## License
-
-Code released under the [MIT License](https://github.com/irwinandfire/badgertool/blob/main/LICENSE).
+To upload a file to this branch use the `.vuepress/public` folder on the `dapp` branch.
